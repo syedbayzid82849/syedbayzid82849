@@ -20,3 +20,7 @@ I love solving problems and continuously learning new skills.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-bayzid-b91343329/))
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)]([https://facebook.com/yourprofile](https://www.facebook.com/syed.bayzidhusain))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github)](https://your-portfolio-link.com)
+
+### 📊 GitHub Stats:
+![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
