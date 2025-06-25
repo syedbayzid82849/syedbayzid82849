@@ -15,3 +15,8 @@ I love solving problems and continuously learning new skills.
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)
+
+### 🌍 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-bayzid-b91343329/))
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)]([https://facebook.com/yourprofile](https://www.facebook.com/syed.bayzidhusain))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github)](https://your-portfolio-link.com)
