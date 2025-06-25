@@ -17,7 +17,12 @@ I love solving problems and continuously learning new skills.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)
 
 ### 🌍 Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syed-bayzid-b91343329//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/syed.bayzidhusain)  
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="40"/>](https://www.linkedin.com/in/syed-bayzid-b91343329) 
+[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" height="40"/>](https://www.facebook.com/syed.bayzidhusain)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-bayzid-b91343329)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syed.bayzidhusain)
+
 
 ### 📊 GitHub Stats:
 ![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
