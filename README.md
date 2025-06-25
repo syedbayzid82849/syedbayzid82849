@@ -74,12 +74,3 @@ I'm a passionate fullstack web developer from Bangladesh, working with modern we
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/syedbayzid82849/contributions?format=svg&private=true)
 
 ---
-
-### 📌 Pinned Projects
-
-> ✅ Make sure you manually **pin** at least 3 repositories from your GitHub Profile ➤ Customize Profile ➤ Pinned Repos
-
----
-
-✍️ *Feel free to fork this README template and make it your own!*
-
