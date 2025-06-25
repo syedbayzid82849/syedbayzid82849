@@ -1,29 +1,85 @@
-### Hi, I'm Syed Bayzid 👋  
-#### Web Developer | Full Stack
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+</p>
 
-I'm passionate about building full-stack web applications using AI modern technologies .  
-I love solving problems and continuously learning new skills.
+<h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
+<h3 align="center">Fullstack Web Developer | MERN Stack Enthusiast</h3>
 
-🚀 Exploring NEXT.JS  
-🌐 Working on a tourism website project  
-📚 Learning advanced backend security (JWT, Firebase)
+---
 
-### 💻 Skills
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)
+### 🧑‍💻 About Me
+I'm a passionate fullstack web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
 
-### 🌍 Connect with me
-[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="40"/>](https://www.linkedin.com/in/syed-bayzid-b91343329) 
-[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook" height="40"/>](https://www.facebook.com/syed.bayzidhusain)
+🚀 Currently learning NEXT.js  
+🌐 Building a tourism website  
+🔐 Exploring JWT & Firebase authentication  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-bayzid-b91343329)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/syed.bayzidhusain)
+---
 
+### 🚀 Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-### 📊 GitHub Stats:
-![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
+---
+
+### 🌍 Connect with Me
+
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/syed-bayzid-b91343329) 
+[<img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="40"/>](https://www.facebook.com/syed.bayzidhusain)
+
+---
+
+### 🏅 GitHub Badges
+
+<a href='https://archiveprogram.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+</a>
+<a href='https://docs.github.com/en/developers'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a>
+<a href='https://github.com/pricing'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
+</a>
+<a href='https://stars.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+</a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
+</a>
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=syedbayzid82849&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbayzid82849&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedbayzid82849&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=syedbayzid82849&theme=tokyonight)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/syedbayzid82849/contributions?format=svg&private=true)
+
+---
+
+### 📌 Pinned Projects
+
+> ✅ Make sure you manually **pin** at least 3 repositories from your GitHub Profile ➤ Customize Profile ➤ Pinned Repos
+
+---
+
+✍️ *Feel free to fork this README template and make it your own!*
+
