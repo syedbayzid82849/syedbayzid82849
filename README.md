@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+  <img src="[https://your-banner-image-link.com/banner.png" alt="Banner](https://media.licdn.com/dms/image/v2/D4E16AQGoU7ocaxyweg/profile-displaybackgroundimage-shrink_200_800/B4EZelA7qXHcAU-/0/1750820176073?e=1756339200&v=beta&t=KCHYuf_VybKPWzIbo2oO71doKGSVW8LGIaCqj4lfmVs)" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
-<h3 align="center">Fullstack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Fullstack Web Developer | Full Stack</h3>
 
 ---
 
