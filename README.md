@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate fullstack web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
+I'm a passionate fullstack web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB and also AI technologies. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
 
 🚀 Currently learning NEXT.js  
 🌐 Building a tourism website  
@@ -72,5 +72,8 @@ I'm a passionate fullstack web developer from Bangladesh, working with modern we
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=syedbayzid82849&theme=tokyonight)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/syedbayzid82849/contributions?format=svg&private=true)
+
+![snake gif](https://github.com/syedbayzid82849/syedbayzid82849/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
