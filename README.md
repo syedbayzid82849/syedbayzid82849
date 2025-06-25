@@ -17,9 +17,7 @@ I love solving problems and continuously learning new skills.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)
 
 ### 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/syed-bayzid-b91343329/))
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)]([https://facebook.com/yourprofile](https://www.facebook.com/syed.bayzidhusain))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=github)](https://your-portfolio-link.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syed-bayzid-b91343329//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/syed.bayzidhusain)  
 
 ### 📊 GitHub Stats:
 ![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
