@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/DP1VcBtz/1750820176073-e-1756339200-v-beta-t-KCHYuf-Vyb-KPWz-Ibo2o-O71do-KGSVW8-LGIa-Cqj4lfm-Vs.jpg" />
+  <img src="https://ibb.co.com/fGBqd24C" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
