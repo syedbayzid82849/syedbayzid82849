@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co.com/fGBqd24C" />
+  <img src="https://postimg.cc/ZCFVdvts" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
