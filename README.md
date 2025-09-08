@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/ZCFVdvts" />
+  <img src="https://i.postimg.cc/X7tht92W/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
