@@ -2,17 +2,13 @@
   <img src="https://i.postimg.cc/X7tht92W/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner-2.png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Syed Bayzid</h1>
-<h3 align="center">Fullstack Web Developer | Full Stack</h3>
+<h1 align="center">Hi, I'm Syed Bayzid</h1>
+<h3 align="center">MERN STACK DEVELOPER | FRONEND DEVELOPER</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate fullstack web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB and also AI technologies. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
-
-🚀 Currently learning NEXT.js  
-🌐 Building a tourism website  
-🔐 Exploring JWT & Firebase authentication  
+I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working with modern web technologies like React, Node.js, and MongoDB and also AI technologies. I enjoy solving real-world problems through coding and continuously learning new tools and frameworks.
 
 ---
 
