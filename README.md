@@ -58,3 +58,11 @@ I'm a passionate MERN STACK and FRONEND web developer from Bangladesh, working w
 [![Trophy](https://github-profile-trophy.vercel.app/?username=syedbayzid82849&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+### GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedbayzid82849&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedbayzid82849&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=syedbayzid82849&theme=tokyonight)
